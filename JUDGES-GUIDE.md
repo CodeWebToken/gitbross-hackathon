@@ -120,6 +120,7 @@ if (userHasWallet()) {
 ### **Innovation** ⭐⭐⭐⭐⭐
 - First Web2/Web3 bridge Git platform
 - Novel memo transaction architecture
+- Immortilize OSS code
 - Creator economy for open source
 
 ### **Technical Execution** ⭐⭐⭐⭐⭐
@@ -134,7 +135,7 @@ if (userHasWallet()) {
 - Community ownership model
 
 ### **Real-World Impact** ⭐⭐⭐⭐⭐
-- Solving actual problems (GitHub censorship)
+- Solving actual problems
 - Working with real users today
 - Foundation for broader Web3 adoption
 
