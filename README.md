@@ -43,7 +43,7 @@ GitBross solves Web3 adoption by creating the **first Web2→Web3 bridge Git pla
 ```
 ❌ PROBLEM: Web3 adoption barrier - developers intimidated by crypto complexity
 ❌ PROBLEM: Open source creators can't monetize their work
-❌ PROBLEM: Centralized Git platforms can censor or disappear
+❌ PROBLEM: Crypto projects hosted on centralized platforms contradicts first principles - decentralized code shouldn't depend on centralized infrastructure that can fail or censor
 
 ✅ SOLUTION: Familiar Git platform that gradually introduces Web3 concepts
 ✅ SOLUTION: Real SOL payments for stars, bounties, and PR contributions  
