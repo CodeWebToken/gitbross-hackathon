@@ -190,6 +190,7 @@ For judges wanting to test the live SOL payment features:
 - Complete creator economy for open source (stars, bounties, PR rewards)
 - Revolutionary "code as assets" economic model
 - Smart dual-authentication system enabling gradual Web3 adoption
+- Immortalize OSS code through decentralized storage
 
 ### **Technical Execution** ⭐⭐⭐⭐⭐
 - Production-ready platform (https://gitbross.com)
