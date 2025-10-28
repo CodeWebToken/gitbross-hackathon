@@ -37,7 +37,7 @@
 
 ### Creator Economy Features
 - **Code as Real-World Assets**: Repositories become tokenized assets with provable ownership
-- **SOL-Powered Stars**: Users reward projects with SOL when starring (planned feature)
+- **SOL-Powered Stars**: Users reward projects with SOL when starring
 - **Direct Payments**: Receive tips and donations in SOL cryptocurrency
 - **Transparent Funding**: Smart contracts ensure transparent project funding
 - **Bounty Systems**: Set bounties for features and bug fixes
